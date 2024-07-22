@@ -1,3 +1,3 @@
 # ProductLab
 
-Нашел легкое нестандартное решение в обход работы с HTML через XPath.
+Test task for productlab
